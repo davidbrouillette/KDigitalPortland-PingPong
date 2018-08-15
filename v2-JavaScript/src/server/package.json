@@ -1,0 +1,20 @@
+{
+    "name": "@kdigitalportland/pingpong-server",
+    "version": "0.0.1",
+    "description": "pingpong",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "node src/index.js"
+    },
+    "repository": {
+      "type" : "git",
+      "url" : "https://github.com/davidbrouillette/KDigitalPortland-PingPong"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "4.16.3",
+      "body-parser": "1.18.3"
+    }
+  }
+  

@@ -1,0 +1,28 @@
+
+.app-component-container{
+
+}
+
+.score-component{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.serve-indicator-component{
+	display: block;
+	width: 100%;
+	height: 100%;
+	
+}
+
+.default{
+	width: 100%;
+	height: 100%;
+	color: lightgrey;
+}
+
+div.current-serve.default{
+	color: black;
+}
+

@@ -1,0 +1,14 @@
+b = 1
+a = 0
+x = 3
+y = 4
+rshoulder = 7
+lshoulder = 6
+start = 11
+select = 10
+
+JoyAxisMotion
+up =  axis = 1 value = -1.0000305.....
+right = axis = 0 value = 1
+left = axis = 0 value = -1.000....
+down = axis = 1 value = 1

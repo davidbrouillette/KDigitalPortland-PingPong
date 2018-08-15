@@ -10,11 +10,6 @@
       "type" : "git",
       "url" : "https://github.com/davidbrouillette/KDigitalPortland-PingPong"
     },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "express": "4.16.3",
-      "body-parser": "1.18.3"
-    }
+    "dependencies": {}
   }
   

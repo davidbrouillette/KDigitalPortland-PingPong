@@ -1,0 +1,13 @@
+{
+  "name": "@kdigitalportland/pingpong",
+  "version": "0.0.1",
+  "description": "pingpong",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/davidbrouillette/KDigitalPortland-PingPong"
+  },
+  "author": "",
+  "license": "ISC"
+}
